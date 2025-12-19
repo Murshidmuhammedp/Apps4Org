@@ -56,5 +56,3 @@ src/
 npm install
 npm run dev
 
-
-## 📁 Project Structure
